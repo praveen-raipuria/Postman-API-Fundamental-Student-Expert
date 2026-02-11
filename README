@@ -1,0 +1,49 @@
+01. API.mdnotes: Captured essential details on APIs
+
+02. Networking terms.md                           notes: fundamental components of client-server architecture
+
+03. API types.md                                  notes: types of APIs
+
+04. API Platform.md                               Update 04. API Platform.md
+
+05. The API-First World.md                        notes: 'The API-First World' vision and Postman's role
+
+06. Getting started with Postman.md               notes: getting started with Postman including accessing, steps to beg…
+
+07. Task- Create a workspace.md                   notes: steps for creating a workspace using Postman Library API v2
+
+08. Task- Create a collection.md                  notes: instructions for creating a collection in Postman
+
+09. Task- Get books from the Library API.md       notes: first request to get books from the Library API
+
+10. Request-Response pattern.md                   notes: Request-Response Pattern with overview, process, and example
+
+11. Variables in Postman.md                       notes: setting and managing variables in Postman
+
+12. Query parameters.md                           notes: query parameters in API requests
+
+13. Task- Search books by genre.md                notes: filtering fiction books in Postman Library API
+
+14. Task- Multiple query parameters.md            notes: filter non-checked out fiction books using multiple query para…
+
+15. Path Variable.md                              notes: path variables in API usage
+
+16. Task- Get a book by id.md                     notes: detailed steps for retrieving a book by id in Postman
+
+17. Task- Add a book.md                           notes: adding a book via POST request in Postman
+
+18. Task- Add an authorization header.md          notes: adding an authorization header in Postman
+
+19. Task- Use Postman Auth.md                     notes: Implemented API Key authentication using Postman Auth
+
+20. Variables in Postman (Continued).md           notes: detailed notes on variables in Postman
+
+21. Setting variables programmatically.md         notes: setting variables programmatically in Postman
+
+22. Task- My first script.md                      notes: basics of JavaScript in Postman
+
+23. Task- Grab the new book id.md                 notes: setting and getting collection variables in Postman
+
+                                              README.md
+
+                                            Initial commit
